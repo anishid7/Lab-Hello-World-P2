@@ -4,15 +4,44 @@ body {
     border-top: 15px solid #424242;
     margin: 0;
 }
+
 main {
     margin: 0 auto;
     width: 900px;
 }
 
-.details {
-    display: flex;
+.masthead {
+    background-image: url(images/mac.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 2500px;
+    border-radius: 20px;
 }
 
+.details {
+    display: flex;
+    gap: 25px;
+}
+
+.details section {
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #ccc;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+
 img {
-    width: 100%
+    width: 100%;
+}
+
+h2 {
+    margin: 0 0 10px 0;
+}
+
+p {
+    margin: 0;
+    line-height: 1.4em;
 }
