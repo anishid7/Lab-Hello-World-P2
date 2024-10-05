@@ -8,12 +8,12 @@ body {
 
 main {
     margin: 0 auto;
-    width: 900px;
+    width: 800px;
 }
 
 .masthead {
     background: no-repeat bottom / cover url('images/mac.jpg');
-    height: 2500px;
+    height: 250px;
     border-radius: 20px;
 }
 
@@ -31,11 +31,11 @@ main {
 }
 
 .details section.p {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section.h2 {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section.with-code {
@@ -59,7 +59,7 @@ img {
 }
 
 h1 {
-    background-image: url('images/Lab\ Logo.png');
+    background-image: url('images/h-logo.jpg');
     background-repeat: no-repeat;
     background-size: 40px;
     background-position: center left;
