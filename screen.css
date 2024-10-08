@@ -47,7 +47,7 @@ div.code-html {
     background: #424242;
     color: #fff;
     border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
